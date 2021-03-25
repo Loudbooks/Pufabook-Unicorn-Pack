@@ -1,7 +1,5 @@
-Its a texture pack
+Its a texture pack.
 
-Made by a Fish,
+Made by a Fish;
 
-a Loud book,
-
-and a Unicorn
+and a Loud book
